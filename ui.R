@@ -152,7 +152,7 @@ shinyUI(
                   
                   h3("Developing Data Products course - Assignment Week 4 - Shiny Application and Reproducible Pitch"),
                   
-                  h3("Author: Gaston Dario Napoli - March, 2017"),
+                  h3("Author: Luis Manuel Murillo Reyna - June, 2019"),
                   
                   br(),
                   
@@ -163,8 +163,8 @@ shinyUI(
                   ),
                   
                   p("Source code of this application is available at",
-                    a(href = "https://github.com/laplata2003/data-products-week-4-project",
-                      "https://github.com/laplata2003/data-products-week-4-project")
+                    a(href = "https://github.com/lmurillo80/DevDataProductsWeek4",
+                      "https://github.com/lmurillo80/DevDataProductsWeek4")
                   )
                   
             )
